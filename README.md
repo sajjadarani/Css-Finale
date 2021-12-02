@@ -1,9 +1,13 @@
 # Css-Finale
 
-" Hi my dear friends. this is your final project.
-please look at your telegram channel and watch the video I have sent. 
-it is a single webpage that you must build with html and css. you can use anything that we have taught so far for making it.
-please make sure that your final result match the video .
-at last send us your repo's link.
+.finale:{
 
-HAVE FUN🤗 "
+pronounce: (fɪˈnɑːli,fɪˈnɑːleɪ);
+
+noun: finale; plural noun: finales;
+
+meaning: the last part of a piece of music, an entertainment, or a public event, especially when particularly dramatic or exciting;
+
+ orgin: url([download](https://user-images.githubusercontent.com/92779406/144369357-f013290c-6289-41a3-a283-b4ff948c35eb.png));
+ 
+}
